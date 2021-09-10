@@ -1,5 +1,5 @@
 ---
 title: IAM documentation
 redirect_to:
-  - v/current
+  - https://indigo-iam.github.io/
 ---
